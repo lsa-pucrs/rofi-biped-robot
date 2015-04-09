@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Action>
+    <Frames>
+      <Frame>
+        <State>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+          <double>0</double>
+        </State>
+        <Delay>100</Delay>
+      </Frame>
+      <Frame>
+        <State>
+          <double>0</double>
+          <double>60</double>
+          <double>60</double>
+          <double>-60</double>
+          <double>-60</double>
+          <double>0</double>
+          <double>0</double>
+          <double>60</double>
+          <double>60</double>
+          <double>-60</double>
+          <double>-60</double>
+          <double>0</double>
+        </State>
+        <Delay>100</Delay>
+      </Frame>
+    </Frames>
+    <Loop>false</Loop>
+    <Name>Action.001</Name>
+    <Speed>0.20945205479452062</Speed>
+  </Action>
+</ArrayOfAction>

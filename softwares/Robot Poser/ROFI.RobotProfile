@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RobotProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>ROFI</name>
+  <leftLeg>
+    <Joint>
+      <name>Left Ankle</name>
+      <index>6</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>roll</type>
+      <pin1>38</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Left Lower Leg</name>
+      <index>7</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>40</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Left Knee</name>
+      <index>8</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>42</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Left Middle Leg</name>
+      <index>9</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>44</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Left Upper Leg</name>
+      <index>10</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>46</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Left Hip</name>
+      <index>11</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>roll</type>
+      <pin1>48</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+  </leftLeg>
+  <rightLeg>
+    <Joint>
+      <name>Right Ankle</name>
+      <index>0</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>roll</type>
+      <pin1>22</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Right Lower Leg</name>
+      <index>1</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>24</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Right Knee</name>
+      <index>2</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>26</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Right Middle Leg</name>
+      <index>3</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>28</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Right Upper Leg</name>
+      <index>4</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>standard</type>
+      <pin1>30</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+    <Joint>
+      <name>Right Hip</name>
+      <index>5</index>
+      <max>60</max>
+      <min>-60</min>
+      <type>roll</type>
+      <pin1>32</pin1>
+      <pin2>-1</pin2>
+    </Joint>
+  </rightLeg>
+  <defaultProfile>true</defaultProfile>
+</RobotProfile>

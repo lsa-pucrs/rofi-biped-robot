@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Action>
+    <Frames>
+      <Frame>
+        <State>
+          <double>0</double>
+          <double>-15.505617977528097</double>
+          <double>60</double>
+          <double>-60</double>
+          <double>6.106226635438361E-15</double>
+          <double>0</double>
+          <double>0</double>
+          <double>-15.505617977528093</double>
+          <double>60</double>
+          <double>-60</double>
+          <double>0</double>
+          <double>0</double>
+        </State>
+        <Delay>100</Delay>
+      </Frame>
+    </Frames>
+    <Loop>false</Loop>
+    <Name>Action.001</Name>
+    <Speed>1</Speed>
+  </Action>
+</ArrayOfAction>
