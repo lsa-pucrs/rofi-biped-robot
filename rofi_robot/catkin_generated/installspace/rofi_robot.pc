@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: rofi_robot
+Description: Description of rofi_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/install/lib 
+Requires: 
